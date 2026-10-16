@@ -1,0 +1,21 @@
+OncoFront v1.0 — Research Use License
+
+Copyright (c) 2026 OncoFront rights holders. All rights reserved.
+
+Permission is granted to install and use the provided compiled OncoFront
+software for noncommercial research. This permission does not grant access
+to the proprietary source code or a right to sublicense, modify, or distribute
+modified versions of the compiled software.
+
+Commercial use and redistribution outside the official release require prior
+permission from the rights holders. Reverse engineering, decompilation and
+disassembly are prohibited except where applicable law permits them despite
+this restriction. Mandatory statutory rights are not waived by this notice.
+
+The software and model files are provided without warranties of any kind.
+They are research tools, not approved clinical diagnostic or treatment products.
+Users remain responsible for verifying their inputs, outputs and intended use.
+
+Third-party libraries are governed by their own licenses. This license does not
+replace or restrict rights granted by those licenses. Their notices must be
+preserved when redistributing the corresponding third-party components.

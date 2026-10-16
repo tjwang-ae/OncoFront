@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy==1.26.3
+scipy==1.15.3
+pandas==2.0.3
+scikit-learn==1.7.2
+torch==2.2.1+cpu
+networkx==3.4.2
+PyYAML==6.0.3
+cryptography==46.0.3

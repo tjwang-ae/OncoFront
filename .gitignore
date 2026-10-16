@@ -1,0 +1,16 @@
+*.pem
+*.key
+*.pdb
+*.obj
+*.o
+*.c
+*.py
+*.pyc
+*.pyd
+*.whl
+*.zip
+*.log
+build/
+dist/
+.venv/
+private/
